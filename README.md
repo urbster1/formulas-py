@@ -3,14 +3,11 @@ Generate note formulas as described in the book [An Improviser's OS by Wayne Kra
 
 formulas.py is a simple Python script that will generate a list of all possible note combinations for a given (optional) root note.
 
-Usage: **python formulas.py** [note]
-
+Usage: **python formulas.py** [note]<br />
 where [note] is a note name e.g. C, C#, Db, etc. (if root is omitted, formulas are generated with C as root)
 
 Requirements:
-
 * Python 3
-
 * [mingus](https://github.com/urbster1/python-mingus) *(if you use pip to install, replace Lib/site-packages/mingus/core/notes.py with the notes.py from this repo, otherwise if you install using my fork it should work)*
 
 2048 formulas of 1 through 12 notes will be generated. This comprises all possible combinations of notes in the chromatic scale which include the given root note.
