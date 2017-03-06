@@ -10,6 +10,6 @@ Requirements:
 * Python 3
 * [mingus](https://github.com/urbster1/python-mingus) *(if you use pip to install, replace Lib/site-packages/mingus/core/notes.py with the notes.py from this repo, otherwise if you install using my fork it should work)*
 
-2048 formulas of 1 through 12 notes will be generated. This comprises all possible combinations of notes in the chromatic scale which include the given root note.
+2048 formulas of 1 through 12 notes will be generated. These comprise all possible combinations of notes in the chromatic scale which include the given root note.
 
 For more information, please [read the book](http://www.abstractlogix.com/xcart/product.php?productid=24532&cat=0&page=1) - no, really - it will tell you everything you need to know.
