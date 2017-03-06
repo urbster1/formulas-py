@@ -4,7 +4,7 @@ Generate note formulas as described in the book [An Improviser's OS by Wayne Kra
 formulas.py is a simple Python script that will generate a list of all possible note combinations for a given (optional) root note.
 
 Usage: **python formulas.py** [note]<br />
-where [note] is a note name e.g. C, C#, Db, etc. (if root is omitted, formulas are generated with C as root)
+where [note] is a note name e.g. C, C#, Db, etc. If [note] is omitted, formulas are generated with C as root.
 
 Requirements:
 * Python 3
