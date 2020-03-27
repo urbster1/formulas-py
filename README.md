@@ -1,5 +1,5 @@
 # formulas.py
-Generate sets of notes as described in the book [An Improviser's OS by Wayne Krantz](http://www.abstractlogix.com/xcart/product.php?productid=24532&cat=0&page=1) (All Rights Reserved)
+Generate sets of notes as described in the book [An Improviser's OS by Wayne Krantz](https://waynekrantz.bandcamp.com/merch/wayne-krantz-an-improvisers-os-2nd-edition) (All Rights Reserved)
 
 formulas.py is a simple Python script that will generate a list of all possible note combinations for a given (optional) root note.
 
@@ -12,4 +12,4 @@ Requirements:
 
 2048 sets of 1 through 12 notes will be generated. These comprise all possible combinations of notes in the chromatic scale which include the given root note. When no note is specified, the formulas are shown without reference to any particular pitch.
 
-For more information, please [read the book](http://www.abstractlogix.com/xcart/product.php?productid=24532&cat=0&page=1) - no, really - it will tell you everything you need to know.
+For more information, please [read the book](https://waynekrantz.bandcamp.com/merch/wayne-krantz-an-improvisers-os-2nd-edition) - no, really - it will tell you everything you need to know.
