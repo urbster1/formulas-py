@@ -13,3 +13,6 @@ Requirements:
 2048 sets of 1 through 12 notes will be generated. These comprise all possible combinations of notes in the chromatic scale which include the given root note. When no note is specified, the formulas are shown without reference to any particular pitch.
 
 For more information, please [read the book](http://www.abstractlogix.com/xcart/product.php?productid=24532&cat=0&page=1) - no, really - it will tell you everything you need to know.
+
+# Attribution
+I actually didn't write this, I just forked it, but it appears the original repo is gone, so I'm not sure who the original author is any longer... if you wrote this and would like attribution, please let me know.
